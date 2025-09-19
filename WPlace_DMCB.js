@@ -9,6 +9,7 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @downloadURL  https://raw.githubusercontent.com/dearvoodoo/WPlace---Dark-mode-Charge-Bar/refs/heads/main/WPlace_DMCB.js
 // ==/UserScript==
 
 (function() {
